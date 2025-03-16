@@ -45,7 +45,7 @@ html {
   list-style: none;
 }
 
-a:hover {
+.nav__link:hover {
   color: var(--main-color);
 }
 
