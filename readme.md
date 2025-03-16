@@ -38,7 +38,7 @@ The page should match the design Pixel Perfect: all the sizes, colors and distan
 - [x] CSS is used to show all letters in Uppercase (don't type them in HTML)
 - [x] Logo is an image wrapped with a link
 - [x] **CSS Variable** is used for a blue color
-- [x] Pseudo-element is used for a blue line below the active link
+- [x] Pseudo-element is used for a blue line below the git addactive link
 - [x] Code follows all the [Code Style Rules ❗️](./checklist.md)
 - [x] The Google Fonts Configuration follows requirements.
       ![alt text](./assets/image.png)
